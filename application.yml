@@ -6,10 +6,10 @@
 spring:
     profiles:dev #开发环境
     application:
-    name:mycloud-config-wcc-dev
+        name:mycloud-config-wcc-dev
 
 ---
 spring:
     profiles:test #开发环境
     application:
-    name:mycloud-config-wcc-test
+        name:mycloud-config-wcc-test
